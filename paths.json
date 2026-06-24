@@ -1,0 +1,9 @@
+{
+  "mappings": [
+    "/content/eds-training-24-jun/:/",
+    "/content/eds-training-24-jun/configuration:/.helix/config.json"
+  ],
+  "includes": [
+    "/content/eds-training-24-jun/"
+  ]
+}
